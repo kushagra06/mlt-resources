@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css" />
+  <style>
+    body {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem;
+      background-color: #fefefe;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .markdown-body {
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      padding: 2rem;
+      background: white;
+      border-radius: 10px;
+    }
+    nav {
+      margin-bottom: 2rem;
+    }
+    nav a {
+      margin-right: 1rem;
+      text-decoration: none;
+      color: #0366d6;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="/">Home</a>
+    <a href="#reinforcement-learning">Reinforcement Learning</a>
+    <a href="#deep-learning-theory">Deep Learning Theory</a>
+    <a href="#ml-theory">ML Theory</a>
+    <a href="#miscellaneous-topics">Miscellaneous</a>
+    <a href="#measure-theory--probability">Probability</a>
+    <a href="#optimization">Optimization</a>
+    <a href="#computer-science">CS</a>
+  </nav>
+  <main class="markdown-body">
+    {{ content }}
+  </main>
+</body>
+</html>
