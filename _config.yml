@@ -1,0 +1,10 @@
+title: ML Theory References
+markdown: kramdown
+theme: null
+permalink: pretty
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
