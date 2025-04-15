@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grad School Resource List
+title: Grad Students Resource List
 ---
 
 # Grad School Resource List
