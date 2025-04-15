@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Grad Students Resource List
+permalink: /grad-students-resources/
 ---
 
 # Grad School Resource List
