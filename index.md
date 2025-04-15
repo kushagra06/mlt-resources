@@ -3,6 +3,8 @@ layout: default
 title: ML Theory References
 ---
 
+[Grad School Resource List](grad-students-resources.html)
+
 # ML Theory References
 
 # Current Research
