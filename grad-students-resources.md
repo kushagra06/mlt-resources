@@ -8,14 +8,14 @@ title: Grad Students Resource List
 This is a seed of a great list of resources to help grad students succeed in grad school.  
 Let’s make this a working document. Feel free to add entries. Feel free to reorganize this doc. I would much appreciate comments on what you found useful or unique about an entry. In other words, feel free to own this doc/project a little bit. If you have access, you are trusted you won’t destroy useful information.
 
----
+***
 
 ## Mix
 
 **John W. Simpson-Porco’s page with a number of good pointers.**  
 *To be processed/added/included..*
 
----
+***
 
 ## D. S. Bernstein  
 **On bridging the theory/practice gap. IEEE Control Systems Magazine, vol.19, no.6, pp.64-70, 1999.**  
@@ -49,14 +49,14 @@ Let’s make this a working document. Feel free to add entries. Feel free to reo
 - Over-reliance on modeling limits practical application, making simpler, adaptive methods like PID more widely used.
 - Bridging the gap between theory and practice requires aligning academic research with real-world constraints and industry needs.
 
----
+***
 
 ## On Research
 
 - Richard Hamming: *You and your research*.  
   https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
----
+***
 
 ## On Writing
 
@@ -88,7 +88,7 @@ Let’s make this a working document. Feel free to add entries. Feel free to reo
 
 - **Kevin P. Lee:** *A Guide to Writing Mathematics* [pdf]
 
----
+***
 
 ## On Presentations
 
@@ -97,7 +97,7 @@ Let’s make this a working document. Feel free to add entries. Feel free to reo
 - **Patrick Winson (MIT) on YouTube:** *How to Speak?*  
   *Csaba’s note: As far as I remember, what he says does not quite apply to ML theory seminars, or if you are lecturing in a classroom setting. However, otherwise, it is very good advice.*
 
----
+***
 
 ## How to Learn Mathematics
 
